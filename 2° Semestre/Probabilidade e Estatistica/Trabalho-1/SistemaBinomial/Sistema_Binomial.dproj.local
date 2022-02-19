@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/18 14:21:52.000.315,=C:\Users\andrei.danelli.MBS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 10:20:20.000.330,=C:\Users\andrei.danelli.MBS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 10:20:48.000.854,C:\Users\andrei.danelli.MBS\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\DELPHI-PROJECTS\Sistema-Binomial\Views\uFrm_Principal.dfm</Transaction>
+    <Transaction>2021/07/20 10:20:48.000.854,C:\Users\andrei.danelli.MBS\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\DELPHI-PROJECTS\Sistema-Binomial\Views\uFrm_Principal.pas</Transaction>
+    <Transaction>2021/07/20 10:21:52.000.838,C:\Users\andrei.danelli.MBS\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\DELPHI-PROJECTS\Sistema-Binomial\Sistema_Binomial.dproj</Transaction>
+    <Transaction>2021/07/21 22:19:08.000.284,=C:\Users\Andrei Danelli\Documents\PROJETOS\DELPHI\SistemaBinomial\Unit1.pas</Transaction>
+    <Transaction>2021/07/21 22:19:28.000.075,C:\Users\Andrei Danelli\Documents\PROJETOS\DELPHI\SistemaBinomial\Unit1.pas=C:\Users\Andrei Danelli\Documents\PROJETOS\DELPHI\SistemaBinomial\Utils\uFrm_Funcoes.pas</Transaction>
+    <Transaction>2021/07/21 22:55:15.000.456,=C:\Users\Andrei Danelli\Documents\PROJETOS\DELPHI\SistemaBinomial\Unit1.pas</Transaction>
+    <Transaction>2021/07/21 22:55:26.000.882,C:\Users\Andrei Danelli\Documents\PROJETOS\DELPHI\SistemaBinomial\Unit1.pas=C:\Users\Andrei Danelli\Documents\PROJETOS\DELPHI\SistemaBinomial\Utils\Unit1.pas</Transaction>
+    <Transaction>2021/07/21 22:55:56.000.882,C:\Users\Andrei Danelli\Documents\PROJETOS\DELPHI\SistemaBinomial\Utils\uFrm_Funcoes.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

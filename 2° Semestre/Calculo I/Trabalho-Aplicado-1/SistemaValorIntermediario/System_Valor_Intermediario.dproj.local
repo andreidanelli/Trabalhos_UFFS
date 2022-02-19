@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/16 20:08:27.000.001,=C:\Users\Andrei Danelli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/16 20:11:27.000.145,=C:\Users\Andrei Danelli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/16 20:21:09.000.380,=C:\Users\Andrei Danelli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/27 20:28:33.000.714,=C:\Users\Andrei Danelli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/27 20:29:18.000.331,C:\Users\Andrei Danelli\Documents\PROJETOS\DELPHI\SistemaValorIntermediario\Views\uFrm_Principal.dfm=C:\Users\Andrei Danelli\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/07/27 20:29:18.000.331,C:\Users\Andrei Danelli\Documents\PROJETOS\DELPHI\SistemaValorIntermediario\Views\uFrm_Principal.pas=C:\Users\Andrei Danelli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/27 20:29:59.000.050,C:\Users\Andrei Danelli\Documents\PROJETOS\DELPHI\SistemaValorIntermediario\System_Valor_Intermediario.dproj=C:\Users\Andrei Danelli\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/07/27 21:25:51.000.325,=C:\Users\Andrei Danelli\Documents\PROJETOS\DELPHI\SistemaValorIntermediario\Unit1.pas</Transaction>
+    <Transaction>2021/07/27 21:25:59.000.127,C:\Users\Andrei Danelli\Documents\PROJETOS\DELPHI\SistemaValorIntermediario\Utils\Unit1.pas=C:\Users\Andrei Danelli\Documents\PROJETOS\DELPHI\SistemaValorIntermediario\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

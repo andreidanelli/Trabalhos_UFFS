@@ -19,11 +19,13 @@ int main() {
     fscanf(file, "%d", &n);
     fgets(studentsRead.name, 50, file);
     for(i = 0; i < n; i++) {
-        fgets(studentsRead.name[i], 50, file);
+        fgets(studentsRead.name, 50, file);
         fscanf(file, "%f %f", &studentsRead.n1, &studentsRead.n2);
-        printf("%s", studentsRead.name);
+        printf("%s\n", studentsRead.name);
+        printf("%.1f\n", studentsRead.n1);
+        printf("%.1f\n", studentsRead.n2);
     }
-  
+
     fclose(file);
 
     return 0;

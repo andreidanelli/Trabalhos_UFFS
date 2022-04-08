@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_Operacoes_Aritmeticas</string>
+    <string name="somar">Somar</string>
+    <string name="subtrair">Subtrair</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="dividir">Dividir</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/edtValor1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/edtValor2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/btnSomar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/somar" />
+
+    <Button
+        android:id="@+id/btnSubtrair"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/subtrair" />
+
+    <Button
+        android:id="@+id/btnMultiplicar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/multiplicar" />
+
+    <Button
+        android:id="@+id/btnDividir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dividir"
+        android:layout_marginBottom="25dp" />
+
+    <TextView
+        android:id="@+id/textViewResultado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textSize="20sp"
+        android:textAlignment="center" />
+</LinearLayout>
